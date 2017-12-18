@@ -1,0 +1,17 @@
+﻿  Render.cpp
+c:\users\gotagofast\desktop\кг\labka2\openglrememberproj\myogl.h(92): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\gotagofast\desktop\кг\labka2\openglrememberproj\render.cpp(123): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\gotagofast\desktop\кг\labka2\openglrememberproj\render.cpp(125): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\gotagofast\desktop\кг\labka2\openglrememberproj\render.cpp(126): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\gotagofast\desktop\кг\labka2\openglrememberproj\render.cpp(338): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\gotagofast\desktop\кг\labka2\openglrememberproj\render.cpp(339): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\gotagofast\desktop\кг\labka2\openglrememberproj\render.cpp(340): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+  PrimitivesStatic.cpp
+  Primitives.cpp
+  OpenGLrememberProj.cpp
+c:\users\gotagofast\desktop\кг\labka2\openglrememberproj\myogl.h(92): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Object.cpp
+  MyOGL.cpp
+c:\users\gotagofast\desktop\кг\labka2\openglrememberproj\myogl.h(92): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Создание кода...
+  OpenGLrememberProj.vcxproj -> C:\Users\gotagofast\Desktop\КГ\labka2\Debug\OpenGLrememberProj.exe
